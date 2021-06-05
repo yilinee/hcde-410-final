@@ -1,4 +1,0 @@
-# hcde-410-final
-This is the final project created by Catherine Zeng for HCDE 410 Human Data Interaction course at the University of Washington. 
-
-In this proejct, I plan to use a dataset from World Bank Group named “Global Education Statistics" to examine and analyze the differences of educational access and progression among different countries around the globe. Using the skills I have learned in this course, I will interpret the findings from my data wrangling and analysis to highlight interesting, concerning, and/or confusing patterns I have discovered in the data via the lens of human-centered data science and data ethics. 
